@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "babel-core": "^5.8.25",
-    "jspm": "^0.16.11"
+    "jspm": "^0.16.11",
+    "serve": "^1.4.0"
   }
 }
